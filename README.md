@@ -16,7 +16,7 @@ This repository contains a simple Brick Breaker game implemented in Java using t
 
 ## Screenshots
 
-![Screenshot](https://github.com/sam2003j/BrickBreaker/blob/main/BrickBreaker.png)
+![Screenshot](https://github.com/sam2003j/BrickBreaker/blob/main/Brick%20Breaker.png)
 
 
 ## How to play
